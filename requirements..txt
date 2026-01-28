@@ -1,7 +1,8 @@
 streamlit
 numpy
 pandas
-pillow
-opencv-python
-tensorflow
+matplotlib
+scikit-learn
+joblib
 gdown
+opencv-python-headless
